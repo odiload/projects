@@ -1,0 +1,66 @@
+.car{
+width: 250px;
+height: 200px;    
+}
+.r img{ 
+width: 327px;
+height: 220px;
+}
+
+.rr{
+    display: flex;
+    padding: 58px;
+text-align: center;
+
+}
+.btn {
+display: flex;
+text-align: center;
+justify-content: center;
+}
+.btne{
+    display: flex;
+    justify-content: center;
+   
+    padding-left: 326px;
+  
+}
+
+.btne button{
+    width: 100px;
+    height: 50px;
+    background-color: chartreuse;
+    color: white;
+   border: solid 10px;
+}
+
+.btne button:hover{
+background-color: black;
+color: white;
+}
+
+.text{
+    display: flex;
+   padding-left: 289px;
+    text-align: center;
+    justify-content: center;
+}
+/* .rrt{
+    display: flex;
+    margin-left: 26px;
+     text-align: center;
+     justify-content: center;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
